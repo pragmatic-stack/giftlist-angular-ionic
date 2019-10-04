@@ -1,0 +1,7 @@
+{
+  "appId": "com.giftlist.ionic-angular",
+  "appName": "giftlist-angular-ionic",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
